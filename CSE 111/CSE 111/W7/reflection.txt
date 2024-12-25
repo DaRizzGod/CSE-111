@@ -1,0 +1,22 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+If their was an assignment that I saw the power of function is the last assignment in CSE 110 that was
+the moment when I was trying to figure out what was going on. Instead of figuring out the entire program
+that I broke it down and found the issue there.
+
+2. In your judgment, what is the value of test functions?
+
+The value of test function is to allow the porgrammer to test the function individually rather than the whole 
+program but save them time and energy. Even with the test function that it should be taught beyond just CSE 111 but
+even CSE 110 since this is something that they will be using for the rest of their life.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+My process for troubleshooting a program is to breakpoint that line and also run 
+through the function line by line. Even so if it's not making any sense then to make
+it better that I would throw it at AI and figure out what is going on.
